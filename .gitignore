@@ -12,6 +12,7 @@
 
 # SSH Keys
 *.pem
+*.pub
 
 # Backup files
 *.bak
