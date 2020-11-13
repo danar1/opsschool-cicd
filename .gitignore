@@ -13,6 +13,7 @@
 # SSH Keys
 *.pem
 *.pub
+jenkins_ec2_key*
 
 # Backup files
 *.bak
