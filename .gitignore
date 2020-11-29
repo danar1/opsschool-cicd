@@ -14,6 +14,7 @@
 *.pem
 *.pub
 jenkins_ec2_key*
+jenkins-opsschool-github*
 
 # Backup files
 *.bak
